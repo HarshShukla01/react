@@ -8,6 +8,10 @@
  *          <h1>I am h1</h1>
  *          <h2>I am h2</h2>
  *      </div>
+ *      <div id="child2">
+ *          <h1>I am h1</h1>
+ *          <h2>I am h2</h2>
+ *      </div>
  * </div>
  *
  * ReactElement(object) => HTML(Browser understands)
